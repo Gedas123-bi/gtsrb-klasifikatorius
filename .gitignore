@@ -1,0 +1,15 @@
+# Python ir aplinkos failai
+__pycache__/
+*.pyc
+.venv/
+
+# Duomenų ir modelių failai
+data/
+static/uploads/
+*.h5
+*.db
+*.csv
+
+# Naršyklės sugeneruoti failai
+Duomenų rinkinys ir modeliai.html
+Duomenų rinkinys ir modeliai_files/
